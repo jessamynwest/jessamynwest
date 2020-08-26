@@ -12,4 +12,4 @@
 * <a href="https://librarycarpentry.org/">Library Carpentry website</a>
 
 ## My goblin
-![one of those wrinkly cats](goblin.jpg)
+![one of those wrinkly cats](https://github.com/jessamynwest/jessamynwest/blob/main/goblin.jpg)
