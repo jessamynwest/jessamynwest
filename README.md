@@ -1,4 +1,13 @@
-<p align="center">
-<a href="https://twitter.com/jessamyn"><img src="https://img.shields.io/twitter/follow/jessamyn?label=Twitter&style=social" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/jessamyn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+# Hello, I'm Jessamyn 
+
+## Find me around the web: 
+- Librarian blog: <a href="https://librarian.net">librarian.net</a>
+- Personal Blog: <a href="http://jessamyn.com/journal">jessamyn.com/journal</a>
+- Shiny work blog: <a href="http://jessamyn.info">jessamyn.info</a>
+- Twitter: <a href="https://twitter.com/jessamyn">@jessamyn</a>
+- Instagram: <a href="https://instagram.com/iamthebestartist">@iamthebestartist</a>
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/User:Jessamyn">User:Jessamyn</a>
+
+## Things I need handy
+* <a href="https://guides.github.com/features/mastering-markdown/">Markdown Tips For Me</A>
+* <a href="https://librarycarpentry.org/">Library Carpentry website</a>
