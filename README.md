@@ -1,4 +1,7 @@
-# Hello, I'm Jessamyn 
+
+# Hello, I'm Jessamyn, Watch Me Learn Things
+![me doing a cartwheel sometime back in the 1970w](https://github.com/jessamynwest/jessamynwest/blob/main/cartwheel.png)
+
 ## Find me around the web: 
 - Librarian blog: <a href="https://librarian.net">librarian.net</a>
 - Personal Blog: <a href="http://jessamyn.com/journal">jessamyn.com/journal</a>
