@@ -6,7 +6,7 @@
 - Librarian blog: <a href="https://librarian.net">librarian.net</a>
 - Personal Blog: <a href="http://jessamyn.com/journal">jessamyn.com/journal</a>
 - Shiny work site: <a href="http://jessamyn.info">jessamyn.info</a>
-- Twitter: <a href="https://twitter.com/jessamyn">@jessamyn</a>
+- Mastodon: <a href="https://glammr.us/@jessamyn">@jessamyn@glammr.us</a>
 - Instagram: <a href="https://instagram.com/iamthebestartist">@iamthebestartist</a>
 - Wikipedia: <a href="https://en.wikipedia.org/wiki/User:Jessamyn">User:Jessamyn</a>
 
